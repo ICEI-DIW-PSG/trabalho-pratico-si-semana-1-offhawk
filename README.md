@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Gustavo Henrique Fernandes Santana
+Matricula: 906187
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspeção com navegador](images/inspect.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/hello-world.png)
 
 
 ## Orientações sobre Linguagem MarkDown
